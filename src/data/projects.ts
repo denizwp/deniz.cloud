@@ -40,7 +40,7 @@ export const projects: ProjectInfo[] = [
 		name: "teamCloud",
 		description:
 			"teamCloud is a team of community developers. We develop advanced and high-quality products on FiveM.",
-		image: "https://media.discordapp.net/attachments/1139677297398521976/1139957366679425124/invite2.png?width=1193&height=671",
+		image: "/images/projects/invite2.png",
 		url: "https://discord.gg/teamcloud",
 		stack: [
 			{
