@@ -35,22 +35,5 @@ export const projects: ProjectInfo[] = [
 				icon: "react"
 			}
 		]
-	},
-	{
-		name: "teamCloud",
-		description:
-			"teamCloud is a team of community developers. We develop advanced and high-quality products on FiveM.",
-		image: "/images/projects/invite2.png",
-		url: "https://discord.gg/teamcloud",
-		stack: [
-			{
-				name: "TailwindCSS",
-				icon: "tailwindcss"
-			},
-			{
-				name: "JavaScript",
-				icon: "js"
-			}
-		]
 	}
 ];
