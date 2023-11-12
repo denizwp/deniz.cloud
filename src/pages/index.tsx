@@ -30,7 +30,7 @@ export default function Home({
 			/>
 
 			<h1 className="heading mb-2">
-				denizaight! <HomeIcon className="ml-4 h-12 w-12 text-orange-400" />
+				denizistaken! <HomeIcon className="ml-4 h-12 w-12 text-orange-400" />
 			</h1>
 
 			<p className="mb-4">
