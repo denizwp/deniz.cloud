@@ -35,5 +35,22 @@ export const projects: ProjectInfo[] = [
 				icon: "react"
 			}
 		]
+	},
+		{
+		name: "teamnood.com",
+		description:
+			"teamnood.com is a community project that brings esports teams and players together and organizes tournaments.",
+		image: "/images/projects/nood.png",
+		url: "https://teamnood.com",
+		stack: [
+			{
+				name: "TailwindCSS",
+				icon: "tailwindcss"
+			},
+			{
+				name: "React",
+				icon: "react"
+			}
+		]
 	}
 ];
