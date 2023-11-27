@@ -34,12 +34,12 @@ const pages: PageData[] = [
 		Icon: CubeIcon,
 		color: "text-rose-400"
 	},
-	{
-		href: "/anime",
-		title: "Anime",
-		Icon: SparklesIcon,
-		color: "text-yellow-300"
-	},
+	//{
+		//href: "/anime",
+		//title: "Anime",
+		//Icon: SparklesIcon,
+		//color: "text-yellow-300"
+	//},
 	{
 		href: "/music",
 		title: "Music",
