@@ -20,11 +20,11 @@ export interface ProjectInfo {
 
 export const projects: ProjectInfo[] = [
 	{
-		name: "povs.online",
+		name: "povs.live",
 		description:
 			"Follow the FiveM servers, twitch streamers playing on the server, and don't miss instant content.",
 		image: "/images/projects/povs.png",
-		url: "https://povs.online",
+		url: "https://povs.live",
 		stack: [
 			{
 				name: "TailwindCSS",
