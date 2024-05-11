@@ -36,7 +36,7 @@ export default function Home({
 			<p className="mb-4">
 				Hi! I&apos;m Deniz, a{" "}
 				<span className="text-sky-500 font-semibold">15-year-old developer</span>{" "}
-				from <span className="text-red-400 font-semibold">Turkey</span>.
+				from <a className="text-red-400 font-semibold" href="https://en.wikipedia.org/wiki/Turkey">Turkey</a>.
 			</p>
 
 			<p className="mb-2 flex flex-wrap gap-2 items-center">
