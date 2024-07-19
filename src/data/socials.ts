@@ -8,7 +8,7 @@ export const socials: SocialInfo[] = [
 	{
 		name: "GitHub",
 		image: "/images/github.png",
-		url: "https://github.com/forealdeniz"
+		url: "https://github.com/denizwp"
 	},
 	{
 		name: "Figma",
@@ -18,7 +18,7 @@ export const socials: SocialInfo[] = [
 	{
 		name: "Instagram",
 		image: "/images/instagram.png",
-		url: "https://instagram.com/forealdeniz"
+		url: "https://instagram.com/denizcokiyi"
 	},
 	{
 		name: "Spotify",
