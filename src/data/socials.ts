@@ -13,7 +13,7 @@ export const socials: SocialInfo[] = [
 	{
 		name: "Figma",
 		image: "/images/figma.png",
-		url: "https://www.figma.com/@denizaight"
+		url: "https://www.figma.com/@denizwp"
 	},
 	{
 		name: "Instagram",
