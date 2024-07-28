@@ -20,6 +20,19 @@ export interface ProjectInfo {
 
 export const projects: ProjectInfo[] = [
 	{
+		name: "agac project",
+		description:
+			"wip",
+		image: "/images/projects/agacproject.gif",
+		url: "https://povs.live",
+		stack: [
+			{
+				name: "TailwindCSS",
+				icon: "tailwindcss"
+			}
+		]
+	},
+	{
 		name: "povs.live",
 		description:
 			"Follow the FiveM servers, twitch streamers playing on the server, and don't miss instant content.",
