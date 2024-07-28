@@ -24,7 +24,7 @@ export const projects: ProjectInfo[] = [
 		description:
 			"wip",
 		image: "/images/projects/agacproject.gif",
-		url: "https://povs.live",
+		url: "https://discord.gg/agac",
 		stack: [
 			{
 				name: "TailwindCSS",
