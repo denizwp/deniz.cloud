@@ -21,7 +21,7 @@ export interface ProjectInfo {
 export const projects: ProjectInfo[] = [
   {
     name: "deniz's tools",
-    description: "a multi-purpose tool website (like a proxy, a story creator, mesh viewer and more)",
+    description: "a multi-purpose toolbox — a proxy, a story creator, a mesh viewer and more",
     image: "/images/projects/movie.png",
     url: "https://tools.deniz.cyou/",
     stack: [
@@ -69,7 +69,7 @@ export const projects: ProjectInfo[] = [
   },
   {
     name: "matchup",
-    description: "a dating app for gtaw turkiye",
+    description: "a dating app",
     image: "/images/projects/matchup.png",
     url: "https://matchup-tr.gta.world/",
     stack: [
@@ -93,7 +93,7 @@ export const projects: ProjectInfo[] = [
   },
   {
     name: "ls chat",
-    description: "a discord-like chat app for gtaw turkiye",
+    description: "a discord-like chat app",
     image: "/images/projects/chat.png",
     url: "https://chat-tr.gta.world/",
     stack: [
@@ -117,7 +117,7 @@ export const projects: ProjectInfo[] = [
   },
   {
     name: "sanmail",
-    description: "a mail service for gtaw turkiye/spain",
+    description: "a webmail service",
     image: "/images/projects/mail.png",
     url: "https://mail-tr.gta.world/",
     stack: [
@@ -141,7 +141,7 @@ export const projects: ProjectInfo[] = [
   },
   {
     name: "handshake",
-    description: "a linkedin-like website for gtaw turkiye",
+    description: "a linkedin-like professional network",
     image: "/images/projects/handshake.png",
     url: "https://handshake.deniz.cyou/",
     stack: [
@@ -165,7 +165,7 @@ export const projects: ProjectInfo[] = [
   },
   {
     name: "ulsahub",
-    description: "a hub for ulsa (a fictional university in gtaw turkiye)",
+    description: "a campus hub for ulsa, a fictional university",
     image: "/images/projects/ulsahub.png",
     url: "https://ulsahub-tr.gta.world/",
     stack: [
@@ -189,7 +189,7 @@ export const projects: ProjectInfo[] = [
   },
   {
     name: "buy me a cookie",
-    description: "a website where you can sell things on gtaw turkiye",
+    description: "a marketplace for buying and selling things",
     image: "/images/projects/cookie.png",
     url: "https://buymeacookie.xyz/",
     stack: [
@@ -213,7 +213,7 @@ export const projects: ProjectInfo[] = [
   },
   {
     name: "soundloop v2",
-    description: "apple music but for gtaw turkiye",
+    description: "a music streaming service, in the style of apple music",
     image: "/images/projects/music.png",
     url: "https://soundloop.app/",
     stack: [
@@ -237,7 +237,7 @@ export const projects: ProjectInfo[] = [
   },
   {
     name: "vetric",
-    description: "a betting website for gtaw turkiye",
+    description: "a sports betting website",
     image: "/images/projects/vetric.png",
     url: "https://vetric.online/",
     stack: [
@@ -273,7 +273,7 @@ export const projects: ProjectInfo[] = [
   },
   {
     name: "povs.live",
-    description: "multiple povs for gta rp streamers",
+    description: "multiple streamer povs, side by side",
     image: "/images/projects/povs.png",
     url: "",
     stack: [],

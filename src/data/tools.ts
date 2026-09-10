@@ -27,16 +27,6 @@ export const tools: ToolGroup[] = [
 				name: "Slack Theme",
 				domain: "slack.com",
 				url: "https://marketplace.visualstudio.com/items?itemName=felipe-mendes.slack-theme"
-			},
-			{
-				name: "Prettier",
-				domain: "prettier.io",
-				url: "https://prettier.io/"
-			},
-			{
-				name: "Tailwind CSS IntelliSense",
-				domain: "tailwindcss.com",
-				url: "https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss"
 			}
 		]
 	},

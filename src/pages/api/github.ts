@@ -1,7 +1,9 @@
 import { NextApiRequest, NextApiResponse } from "next";
 
 const USERNAME = "denizwp";
-const EVENT_LIMIT = 4;
+// two lines plus the profile line is exactly the height of the avatar
+// next to it, which keeps this card the same size as the ones above
+const EVENT_LIMIT = 2;
 
 export interface GitHubEvent {
 	id: string;

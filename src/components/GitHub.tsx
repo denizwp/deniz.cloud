@@ -18,7 +18,7 @@ export default function GitHub() {
 	);
 
 	return (
-		<div className="mt-4 flex rounded-2xl bg-ink-900">
+		<div className="mt-4 flex items-center rounded-2xl bg-ink-900">
 			<div className="w-20 h-20 shrink-0">
 				{data?.avatar ? (
 					<Image
