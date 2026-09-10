@@ -20,6 +20,11 @@ export const socials: SocialInfo[] = [
 		image: "/images/spotify.png",
 		url: "https://open.spotify.com/user/szviltwriiiu23qzw5uriwtw7?si=ac87b62eab114042"
 	},
+	{
+		name: "Buy Me a Coffee",
+		image: "/images/buymeacoffee.png",
+		url: "https://buymeacoffee.com/denizwp"
+	},
 	// {
 	// 	name: "Instagram",
 	// 	image: "/images/instagram.png",
